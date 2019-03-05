@@ -10,16 +10,17 @@ title = "aschig's Universe"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
+#baseurl = "http://www.astro.caltech.edu/~aam/hugo/public/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "&copy; Ashish Mahabal (2019)"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 
 ############################
 ## Advanced options below ##
