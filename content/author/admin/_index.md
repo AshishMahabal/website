@@ -17,7 +17,7 @@ organizations = [ { name = "Caltech, Pasadena, USA", url = "" },
 { name = "IUCAA, Pune, India", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include astronomy, machine learning, and methodology transfer to other fields like medical data."
+#bio = "My research interests include astronomy, machine learning, and methodology transfer to other fields like medical data."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
