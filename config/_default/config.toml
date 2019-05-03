@@ -9,7 +9,7 @@ title = "aschig's Universe"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "/"
 #relativeURLs = true
 #baseurl = "http://www.astro.caltech.edu/~aam/hugo/public/"
 
