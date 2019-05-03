@@ -4,14 +4,22 @@
     
     <url>
     
-      <loc>http://example.org/author/admin/</loc>
+      <loc>/publication/pub1/</loc>
+      <lastmod>2017-03-04T00:00:00-08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>http://example.org/author/</loc>
+      <loc>/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -19,7 +27,7 @@
     
     <url>
     
-      <loc>http://example.org/categories/</loc>
+      <loc>/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -27,21 +35,7 @@
     
     <url>
     
-      <loc>http://example.org/post/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://example.org/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://example.org/tags/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -49,7 +43,55 @@
     
     <url>
     
-      <loc>http://example.org/</loc>
+      <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-03-04T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-03-04T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
