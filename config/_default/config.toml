@@ -10,7 +10,7 @@ title = "aschig's Universe"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""
-relativeURLs = true
+#relativeURLs = true
 #baseurl = "http://www.astro.caltech.edu/~aam/hugo/public/"
 
 # Enter a copyright notice to display in the site footer.
