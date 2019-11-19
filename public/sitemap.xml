@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/pub2/</loc>
+      <lastmod>2017-04-04T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/pub1/</loc>
       <lastmod>2017-03-04T00:00:00-08:00</lastmod>
     </url>
@@ -59,7 +67,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-03-04T00:00:00-08:00</lastmod>
+      <lastmod>2017-04-04T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -91,7 +99,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-03-04T00:00:00-08:00</lastmod>
+      <lastmod>2017-04-04T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
