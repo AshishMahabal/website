@@ -1,4 +1,4 @@
-# Hello, World!
+
 
 <TABLE>
 <TR><TH>Teaching and Talks</TH></TR>
